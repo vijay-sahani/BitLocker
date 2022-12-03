@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/drawable/ic_baseline_content_copy_24.xml" value="0.104" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.151" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/drawable/rounded_button.xml" value="0.104" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/activity_add_secure_note.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/activity_settings.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/add_secure_note.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/bottom_login_input.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/bottomsheet_options.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/fragment_blank.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/fragment_generator.xml" value="0.25" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/fragment_home.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/fragment_settings.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/login_cardview.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/notes_cardview.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/notes_view.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/secure_notes_view.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/layout/toolbar_view.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/menu/bottom_menu.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/menu/popup_menu.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidProject/FinalYearProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.104" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

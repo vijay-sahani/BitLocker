@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bitlocker</string>
+    <string name="add_new_item">Add new item</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="small_letters">a-z</string>
+    <string name="capital_letters">A-Z</string>
+    <string name="numbers">0-9</string>
+    <string name="special_characters">!@#$%^*</string>
+    <string name="generate">Generate</string>
+    <string name="settings">Settings</string>
+    <string name="generated_password">Generated Password</string>
+    <string name="password_generator">Password Generator</string>
+    <string name="default_length">Length: 8</string>
+    <string name="copy_password">Copy Password</string>
+    <string name="secure_notes">Secure Notes</string>
+    <string name="logins">Logins</string>
+    <string name="all">All</string>
+    <string name="example_username">example username</string>
+    <string name="pinned_note">Pin</string>
+</resources>

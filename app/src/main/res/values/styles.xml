@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <style name="Cut" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+
+    <style name="Rounded" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="ShapeAppearance.YourApp.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+
+
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">?android:attr/listDivider</item>
+    </style>
+
+    <style name="SwitchContainerStyle">
+        <item name="android:paddingTop">@dimen/reduced_margin</item>
+        <item name="android:paddingBottom">@dimen/reduced_margin</item>
+        <item name="android:paddingRight">@dimen/reduced_margin</item>
+        <item name="android:paddingEnd" >@dimen/reduced_margin</item>
+        <item name="android:paddingLeft">@dimen/default_margin</item>
+        <item name="android:paddingStart" >@dimen/default_margin</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
+</resources>
